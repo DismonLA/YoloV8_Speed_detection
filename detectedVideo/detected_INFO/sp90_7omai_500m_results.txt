@@ -1,0 +1,12 @@
+Kadru skaits: 602
+Laiks sekundēs: 20.066666666666666
+Kadri sekunde: 30.0
+Detektēto līniju skaits: 42
+Attālums pa līnijām (m): 504.0
+Ātrums pa līnijām (km/h): 90.419
+Detektēto stabu skaits: 6
+Attālums pa stabiem (m): 500
+Ātrums pa stabiem (km/h): 89.701
+Ātruma noteikšanas iespējamā neprecizitāte (km/h): 0.359
+Vidējais ātrums neiekļāujot neprecizitāti (km/h): 90.06
+Vidējais ātrums iekļāujot neprecizitāti (km/h): 89.701

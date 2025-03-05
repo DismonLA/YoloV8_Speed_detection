@@ -1,0 +1,11 @@
+Freimu skaits: 716
+Laiks sekundēs: 23.866666666666667
+Detektēto līniju skaits: 50
+Attālums pa līnijām (m): 600.0
+Ātrums pa līnijām (km/h): 90.503
+Detektēto stabu skaits: 7
+Attālums pa stabiem (m): 600
+Ātrums pa stabiem (km/h): 90.503
+Ātruma noteikšanas iespējamā neprecizitāte (km/h): 0.0
+Vidējais ātrums neiekļāujot neprecizitāti (km/h): 90.503
+Vidējais ātrums iekļāujot neprecizitāti (km/h): 90.503

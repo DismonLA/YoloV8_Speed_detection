@@ -1,0 +1,8 @@
+Kadru skaits: 140
+Laiks sekundēs: 4.666666666666667
+Kadri sekunde: 30.0
+Detektēto stabu skaits: 2
+Attālums pa stabiem (m): 100
+Ātrums pa stabiem (km/h): 77.143
+Ātruma noteikšanas neprecizitāti nevar noteikt izmantojot tikai vienu parametru.
+Vidējais ātrums neiekļāujot neprecizitāti (km/h): 77.143
