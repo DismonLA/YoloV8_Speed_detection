@@ -1,5 +1,5 @@
 # YoloV8_Speed_detection
-This project is my undergraduate thesis dedicated to vehicle speed detection using YOLOv8 and computer vision techniques. The system is designed to process video recordings, detect vehicles and calculate their speed based on the analysis of the frames obtained from the video recorder of the driving car.
+This project is my bachelor's thesis, dedicated to the determination of car speed using YOLOv8 and computer vision methods. The system is designed to process video recordings, detect road infrastructure elements and calculate a moving car's speed based on frame-by-frame data analysis from a video recorder camera.
 
 Technologies used:
 Python
