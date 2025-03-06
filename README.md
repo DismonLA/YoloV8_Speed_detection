@@ -15,3 +15,4 @@ Speed calculation based on frame-by-frame analysis.
 Real-time processing (when running on GPU).
 Video recording and analysis.
 Data logging of detected vehicles and speeds.
+Custom dataset creation for training the YOLOv8 model.
